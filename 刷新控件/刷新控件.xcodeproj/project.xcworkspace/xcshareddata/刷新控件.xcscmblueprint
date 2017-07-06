@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "17D25602CAE33CBD481E37256AE088869001D3E0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "17D25602CAE33CBD481E37256AE088869001D3E0" : 9223372036854775807,
+    "534CCAA5FE27AC5E3AB38D22F43366D017239FFB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4BE6C1CA-08DB-4CB6-A4AE-89049A29BEB1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "17D25602CAE33CBD481E37256AE088869001D3E0" : "Refresh\/",
+    "534CCAA5FE27AC5E3AB38D22F43366D017239FFB" : "sinaWeiBo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "刷新控件",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "刷新控件\/刷新控件.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/git.oschina.net\/monicaFighting\/refreshcontrol",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "17D25602CAE33CBD481E37256AE088869001D3E0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/monicaFighting\/weibotest",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "534CCAA5FE27AC5E3AB38D22F43366D017239FFB"
+    }
+  ]
+}
